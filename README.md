@@ -5,7 +5,7 @@ Este programa precisa dos seguintes requisitos, para funcionar adequadamente:
 1. PIJDBCDriver (Biblioteca JDBC fornecida pela OsiSoft)
 2. PI DAS (fornecido pela Osisoft)
 
-Como a dependência PIJDBCDriver não está fornecida publicamente, você deve instalá-la primeiro no seru servidor Maven. Para isso, de posse do arquivo jar da dependência, execute o seguinte comando:
+Como a dependência PIJDBCDriver não está fornecida publicamente, você deve instalá-la primeiro no seu servidor Maven. Para isso, de posse do arquivo jar da dependência, execute o seguinte comando:
 
 ````shell script
 mvn install:install-file \
